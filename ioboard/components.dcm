@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74HCT245
+D Octal bus transceiver with 3-state outputs (3.3 -> 5V compatible)
+$ENDCMP
+#
+$CMP 74LVC245
+K Octal bus transceiver with 5V-tolerant inputs
+$ENDCMP
+#
+$CMP 74LVC8T245
+D Bidirectional dual-supply octal bus transceiver  (3.3V <-> 5V)
+$ENDCMP
+#
 $CMP ZTurn_IO_J3
 D Pin layout of MYIR Z-Turn IO Cape Connector J3
 K connector
